@@ -1,2 +1,2 @@
 FROM httpd:latest
-COPY ./apache/ /var/www/html/
+COPY index.html /var/www/html/
